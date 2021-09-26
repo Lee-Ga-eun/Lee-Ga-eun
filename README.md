@@ -1,5 +1,7 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lucy%20Lee&fontSize=90)
+### Hi there 👋
+### This is Gaeun Lee, and you can call me Lucy!
+
 
 
 
