@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-eun/front&langs_count=10&layout=compact&count-private=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-eun&langs_count=10&layout=compact&count-private=true)]()
