@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-eun&langs_count=30&layout=compact&count-private=true)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-eun&langs_count=30&layout=compact&count-private=true)]()
+ -->
