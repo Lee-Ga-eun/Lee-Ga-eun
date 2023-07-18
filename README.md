@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-eun&langs_count=30&layout=compact&count-private=true)]()
  -->
+### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Ga-eun@&count_private=true&show_icons=true&theme=default)
