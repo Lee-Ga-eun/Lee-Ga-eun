@@ -1,4 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lucy%20Lee&fontSize=90) 
+### Hi there 👋
+#### This is Gaeun Lee, and you can call me Lucy!
+-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Salesforce-20232a.svg?style=for-the-badge&logo=Salesforce&logoColor=61DAFB" />&nbsp
